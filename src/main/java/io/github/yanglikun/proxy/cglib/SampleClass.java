@@ -1,6 +1,5 @@
 package io.github.yanglikun.proxy.cglib;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class SampleClass {
 
